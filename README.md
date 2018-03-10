@@ -1,4 +1,4 @@
-# mysqlUsingCMD
+### my SQL database related operation using terminal
 
 Access monitor: mysql -u [username] -p; (will prompt for password)
 
